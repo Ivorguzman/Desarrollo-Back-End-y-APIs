@@ -5,8 +5,10 @@
 	"version": "1.0.0",
 	"keywords": [
 		"Node",
-		"NPM",
-		"Java Script"
+		"npm",
+		"Java Script",
+		"MongoDB",
+		"Mongoose"
 	],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
